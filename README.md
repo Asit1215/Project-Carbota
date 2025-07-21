@@ -1,2 +1,2 @@
 # Project-Carbota
-This repository contains a simple and interactive analog clock built using [HTML/CSS/JavaScript] (or specify your tech stack, e.g., Python, JavaFX, etc.). The clock dynamically displays the current time using smoothly animated hour, minute, and second hands, mimicking the appearance and behavior of a traditional analog clock.
+Project-Carbota is a simple and interactive web project built using HTML, CSS, and JavaScript. This project focuses on creating a responsive and visually engaging user interface with dynamic functionalities powered by JavaScript.
